@@ -11006,7 +11006,8 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-  width: 15rem;
+  width: 22rem;
+  border-radius: 50%;
 }
 
 @media (min-width: 992px) {
